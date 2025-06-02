@@ -116,7 +116,7 @@ onSubmit={async (e) => {
       {/* Footer */}
       <footer className="relative z-10 px-6 py-4">
         <div className="container mx-auto text-center">
-          <p className="text-white/80 text-sm">© 2024 Utopique Crafts. All rights reserved.</p>
+          <p className="text-white/80 text-sm">© 2025 Utopique Crafts. All rights reserved.</p>
         </div>
       </footer>
     </div>
