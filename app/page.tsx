@@ -10,7 +10,7 @@ export default function Component() {
       {/* Hero Banner Background */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="/hero-banner.jpg"
+          src="/hero-banner.png"
           width={1920}
           height={1080}
           alt="Utopique Crafts Collection"
