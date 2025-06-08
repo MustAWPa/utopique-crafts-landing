@@ -38,11 +38,11 @@ export default function Component() {
       <main className="relative z-10 flex items-center justify-center min-h-[calc(100vh-120px)] px-6">
         <div className="w-full max-w-lg">
           {/* Newsletter Card */}
-          <div className="bg-white rounded-lg shadow-2xl p-8 md:p-10">
+          <div className="rounded-lg shadow-2xl p-8 md:p-10">
             <div className="text-center space-y-6">
               <div className="space-y-3">
-                <h1 className="text-2xl md:text-3xl font-bold text-gray-900">Discover UtopiqueCrafts</h1>
-                <p className="text-gray-600 leading-relaxed">
+                <h1 className="text-2xl md:text-3xl font-bold text-white">Discover UtopiqueCrafts</h1>
+                <p className="text-white leading-relaxed">
                   Join our community and be the first to explore our exclusive collection.
                 </p>
               </div>
@@ -88,14 +88,14 @@ onSubmit={async (e) => {
                 </div>
                 <Button
                   type="submit"
-                  className="w-full h-12 bg-black hover:bg-gray-800 text-white font-medium rounded-md transition-colors duration-200"
+                  className="w-full h-12 bg-orange-700 hover:bg-gray-800 text-white font-medium rounded-md transition-colors duration-200"
                 >
                   Subscribe to Updates
                 </Button>
               </form>
 
               <div className="pt-4 border-t border-gray-100">
-                <p className="text-sm text-gray-500">
+                <p className="text-sm text-white">
                   Get notified about new collections and exclusive offers. No spam, unsubscribe anytime.
                 </p>
               </div>
