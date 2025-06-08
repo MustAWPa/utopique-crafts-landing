@@ -41,10 +41,9 @@ export default function Component() {
           <div className="bg-white rounded-lg shadow-2xl p-8 md:p-10">
             <div className="text-center space-y-6">
               <div className="space-y-3">
-                <h1 className="text-2xl md:text-3xl font-bold text-gray-900">Discover Unique Crafts</h1>
+                <h1 className="text-2xl md:text-3xl font-bold text-gray-900">Discover UtopiqueCrafts</h1>
                 <p className="text-gray-600 leading-relaxed">
-                  Join our community and be the first to explore our exclusive collection of handcrafted items and
-                  artisanal creations.
+                  Join our community and be the first to explore our exclusive collection.
                 </p>
               </div>
 
